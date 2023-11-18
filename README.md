@@ -26,7 +26,7 @@ Web-приложение разработано в рамках тестовог
 - Запустите тестовый скрипт командой:
 ```python test_script.py```
 
-## Используемые библиотеки (фреймворки):
+## Используемые библиотеки и фреймворки:
 - [Django Framework](https://www.djangoproject.com/)
 - [requests](https://requests.readthedocs.io/en/latest/)
 - [tinydb](https://github.com/msiemens/tinydb)
